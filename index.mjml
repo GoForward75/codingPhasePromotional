@@ -1,0 +1,92 @@
+<mjml>
+
+   <mj-head>
+      <mj-attributes>
+         <mj-all padding="0" />
+         <mj-text font-family="Helvetica, Arial, sanserif" font-size="22px" line-height="26px" color="#333333">
+         <mj-section background-color="#fffffff">
+      </mj-attributes>
+   </mj-head>
+
+   <mj-body background-color="#ffffff">
+
+      <!-- Hero Image -->
+      <mj-section background-color="#ffffff">
+         <mj-column padding-top="20px" padding-bottom="40px" padding-left="5px" padding-right="5px">
+            <mj-image src="https://i.ibb.co/mTBFvT2/hero.jpg" alt="smiling Joe Santos Gracias" />
+         </mj-column>
+      </mj-section>
+      <!--End Hero Image -->
+
+      <!-- Main body text -->
+      <mj-section>
+         <mj-column padding-left="5px" padding-right="5px">
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="28px" line-height="26px" color="#ff0000" padding-top="10px" padding-bottom="20px" align="left">
+              <strong>Please Read it Carefully:</strong> 
+            </mj-text>
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="20px" line-height="22px" color="#333333" align="left">
+               Hi,
+            </mj-text>
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="22px" line-height="30px" color="#333333" padding-top="20px" padding-bottom="60px"  align="left">
+               This is Joe from CodingPhase.com I'm really just wondering if you are still interested in becoming a developer? <br> <br>
+
+                For the last 5 years in codingphase we been helping thousands of students learn to code and get in the tech industry. This is something that I love to do because becoming a developer has changed the lives of all of my students from struggling financially to being in a career where they usually 3x to 5x their income and to be honest is a great feeling seeing people get to their goals. I want to do the same for you! <br> <br>
+
+                  Now I'm reaching out to you because I realized we haven't heard from you in a while or seen any interest from you to becoming a developer or interest in signing up to <a href="codingphase.com" style="color:#0875c1; text-decoration:none;" >codingphase.com</a> so we can help you in this journey. <br> <br>
+
+                  And I don't want to spam you with messages about something you might not be interested in so I want to give you these options to know what's your current status...
+
+​
+            </mj-text>
+            
+         </mj-column>
+      </mj-section>
+      <!-- End Main body text -->
+
+      <!-- Choose wisely section -->
+      <mj-section>
+         <mj-column padding-left="5px" padding-right="5px">
+            <mj-image src="https://i.ibb.co/sPPGWBp/ask-image.jpg" alt="ask image" />
+         </mj-column>
+      </mj-section>
+
+      <mj-section>
+         <mj-column padding-left="10px" padding-right="10px">
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="28px" line-height="24px" color="#ff0000" padding-top="40px" padding-bottom="50px" align="center" >
+              <strong> Choose Wisely Which Ever Of These Links You Click On It's Final Choice </strong>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section>
+         <mj-column width="600px">
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="22px" line-height="26px" color="#0875c1" padding-top="30px" padding-bottom="80px" align="center"  padding-left="20px" padding-right="20px" > 
+            
+             <span style="color:#333333;">    1.</span><a href="codingphase.com" style="text-decoration:underline;">​I'm still interested in becoming a developer and would like you to help me. ​</a> <br>
+             <span style="color:#333333;">      2.</span><a href="unsubscribe.com" style="text-decoration:underline;">​I'm interested in becoming a developer but don't need your help​</a> <br>                
+             <span style="color:#333333;">  3.</span><a href="unsubscribe.com" style="text-decoration:underline;">​No longer interested in becoming a developer.​</a>
+​
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Choose wisely section -->
+
+      <!-- Footer section -->
+      <mj-section padding="0">
+       <mj-column>
+         <mj-divider  border-color="#aaaaaa" border-width="1px" padding="10px 18px 10px 18px"  />
+       </mj-column>
+     </mj-section>
+
+      <mj-section>
+         <mj-column padding-left="10px" padding-right="10px">
+            <mj-text font-family="Helvetica, Arial, sanserif" font-size="14px" line-height="20px" color="#0875c1" padding-top="20px" padding-bottom="80px">
+              <a href="#" style="color:#0875c1;">Unsubscribe | Update your profile |  </a>  <br>
+              <a href="" style="color:#aaaaaa;"> 11806 Bruce B. Downs Blvd. #1092 , Tampa, FL 33612 </a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Footer section -->
+      
+   </mj-body>
+</mjml>
